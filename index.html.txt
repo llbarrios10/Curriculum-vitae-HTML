@@ -125,11 +125,7 @@
             Mayo 2008 – Diciembre 2008
         </li>
 
-        <li>
-            <b>Cyber Peace Markers – Atención al cliente</b><br>
-            Agosto 2004 – Diciembre 2005
-        </li>
-    </ul>
+          </ul>
 
     <hr>
 
