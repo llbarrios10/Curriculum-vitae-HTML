@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Barrios Lucas Leonel</title>
+    <style>
+        body {
+            background-color: #ADD8E6;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 36px;
+            font-family: Georgia, serif;
+            margin-bottom: 10px;
+        }
+        h2 {
+            text-align: left;
+            font-family: Georgia, serif;
+        }
+        .foto-container {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .foto-container img {
+            width: 150px;
+            height: 180px;
+            border: 1px solid #333;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        a {
+            font-size: 18px;
+            color: #0000EE;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Foto centrada sobre el nombre -->
+    <div class="foto-container">
+        <img src="foto.jpg" alt="Foto tipo carnet de Lucas Barrios">
+    </div>
+
+    <!-- Nombre y apellido -->
+    <h1>Barrios Lucas Leonel</h1>
+
+    <hr>
+
+    <!-- Datos Personales -->
+    <h2>Datos Personales</h2>
+    <ul>
+        <li><b>Dirección:</b> Neuquén, Argentina</li>
+        <li><b>Teléfono:</b> (0221) 15 649-4769 / (0221) 15 299 3239918</li>
+        <li><b>Fecha de nacimiento:</b> 17 de Abril de 1985</li>
+        <li><b>Edad:</b> 40 años</li>
+        <li><b>Estado civil:</b> Casado</li>             
+        <li><b>Numero de CUIL:</b> 20-31111111-9</li>
+    </ul>
+
+    <hr>
+
+    <!-- Estudios Cursados -->
+    <h2>Estudios Cursados</h2>
+    <ul>
+        <li><b>Educación Secundaria:</b> Colegio N1 "Joaquín V. Gonzalez", Buenos Aires - Titulo: Bachiller. Año 2002.</li>
+        <li><b>Educación Universitaria:</b> Universidad Nacional de La Rioja (UNLAR), La Rioja - Cursado hasta 3er año de Ingenieria en Sistemas.</li>
+        <li><b>Educación Universitaria:</b> Universidad Siglo XXI - Tecnicatura Universitaria en redes informáticas y telecomunicaciones- En curso.</li>
+    </ul>
+
+    <hr>
+
+    <!-- Capacitación Complementaria -->
+    <h2>Capacitación Complementaria</h2>
+    <ul>
+        <li><b>Introducción a Net Framework y Desarrollo de códigos seguro en .Net.</b> Institución de capacitación. La Rioja.</li>
+        <li><b>Seguridad Informática y software libre.</b> Institución de capacitación. La Rioja.</li>
+         <li><b>Reparación de Notebooks, Netbooks y All in Ones Nivel I y Nivel II.</b> Empresa Vulcano. La Plata.</li>
+        <li><b>CCNA Nivel I.</b> Cisco Networking Academy. La Plata.</li>
+        <li><b>Administrador de Redes y Servidores MS Windows 2008 Nivel I.</b> BS Training. La Plata.</li>
+        <li><b>iFix Fundamentals.</b> Ilagroup. Buenos Aires.</li>
+        <li><b>Energy Profesional.</b> DCPRO. Buenos Aires.</li>
+        <li><b>Capacitación en Schneider UPS Management.</b> Schneider Electric. Buenos Aires.</li>
+        <li><b>Ingles Nivel 1.</b> ETMA. La Plata, 2021.</li>
+    </ul>
+
+    <hr>
+
+    <!-- Experiencia Laboral -->
+    <h2>Experiencia Laboral</h2>
+    <ul>
+        <li>
+            <b>YPF E.E. Sede Regional Oeste </b> - Coordinador IT Regional Oeste.<br>
+            Desde: Junio 2022 - Hasta: Actualidad.<br>
+          Coordinación de Equipos de CAU y Comunicaciones para diferentes activos dentro de YPF E.E, confeccion de Pliegos de Infraestructura, Coordinación de Proyectos de interconexión de 
+          de parques Solares Nuevos en provincias de Mendoza y San Juan (Torre de comunicación, Shelter, Controles de Accesos, CCTV, IT - OT).
+           
+        </li>
+        <li>
+            <b>Stefanini Soluciones S.A.</b> - Supervisor Operativo, Comunicaciones e Infraestructura Región Centro-Norte. Servicio dentro de YPF.<br>
+            Desde: Abril 2020 - Hasta: Junio 2021.<br>
+            Suplencia y asistencia como Coordinador de Comunicaciones e Infraestructura Región Centro-Norte (Julio 2021 - Junio 2022).<br>
+            <i>Referencia:</i> Ulises Urcola, "YPF S.A." - Tel.: (221) 6494545.
+        </li>
+        <li>
+            <b>Sonda S.A.</b> - Responsable del área de Infraestructura. Servicio dentro de YPF La Plata.<br>
+            Tareas de cableado estructurado de redes, fibra óptica, mantenimiento y conectorizados de UPS, revisión y armado de pliegos de contratos de Infraestructura.<br>
+            Desde: Mayo 2016 - Hasta: Abril 2020.<br>
+            <i>Referencia:</i> Vanina Casimiro, "Sonda S.A." - Tel: (011) 54866828.
+        </li>
+        <li>
+            <b>MercoIT S.A.</b> - Soporte Técnico Senior.<br>
+            Cableado estructurado de redes y telefonía en UPAS, instalación de cámaras de seguridad, virtualización de servidores con Hyper-V, mantenimiento de Base de Datos SQL.<br>
+            Desde: Febrero 2015 - Hasta: Mayo 2016.<br>
+            <i>Referencia:</i> Spazzarini Cristian, "MercoIT S.A." - Tel: (221) 5930216.
+        </li>
+        <li>
+            <b>Randazzo Automotores S.A.</b> - Soporte Técnico Senior.<br>
+            Soporte técnico a 400 usuarios del Grupo Randazzo, administración de telefonía IP, configuración de servidores, tecnología de enlace punto a punto con Mikrotik.<br>
+            Desde: Agosto 2009 - Hasta: Enero 2015.<br>
+            <i>Referencia:</i> Bassagaits Juan Ignacio, "Grupo Randazzo" - Tel.: (0221) 5026061.
+        </li>
+        <li>
+            <b>Hospital Escuela y de Clinica de la UNLaR</b> -Soporte Semi Senior.<br>
+ Instalación de Redes de Datos y Telefonía,Cableado estructurado, conexión cliente-servidor, pruebas de conectividad, identificación y documentación.<br>
+            Desde: Agosto 2007 - Hasta: Enero 2009.<br>
+            <i>Referencia:</i> Lic. Claudio Diaz / Ing. Barros - Tel.: (03822) 45 7210.
+        </li>
+        <li>
+            <b>Colegio William Morris, La Rioja</b> - Profesor Titular de Informática en Nivel Inicial y Primer Ciclo del EGB. Profesor suplente en Segundo, Tercer Ciclo EGB y Polimodal.<br>
+            Desde: Mayo 2008 - Hasta: Diciembre 2008.<br>
+            <i>Referencia:</i> Peralta Mirta, Directora - Tel.: (03822) 42 6086.
+        </li>       
+        <li>
+            <b>Cyber Peace Markers, La Rioja</b> - Atención al cliente.<br>
+            Desde: Agosto 2004 - Hasta: Diciembre 2005.
+        </li>
+    </ul>
+
+    <hr>
+
+    <!-- Enlace para descargar en formato Word -->
+    <p style="text-align: center;">
+        <a href="Curriculum.docx">Descargar en formato de Word</a>
+    </p>
+
+</body>
+</html>
